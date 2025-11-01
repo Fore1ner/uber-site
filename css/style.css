@@ -28,6 +28,9 @@
   line-height: 100%;
   color: #fff;
 }
+.menu_buttons div{
+  color: #fff;
+}
 .menu_line {
   border: 1px dashed #000;
   width: 2px;
@@ -574,4 +577,66 @@
   justify-content: right;
   width: 38%;
   gap: 5px;
-}/*# sourceMappingURL=style.css.map */
+}
+.order-form {
+    min-height: 400px; /* Высота секции */
+    background-color: #f9f9f9; /* Цвет фона секции */
+    padding: 40px 20px; /* Отступы внутри секции */
+    border-radius: 8px; /* Закругление углов */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Тень для эффекта */
+}
+
+.order-form .container {
+    max-width: 600px; /* Максимальная ширина контейнера */
+    margin: 0 auto; /* Центрирование контейнера */
+    text-align: center; /* Выравнивание текста по центру */
+}
+
+.order-form h2 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 32px;
+    color: #222; /* Цвет заголовка */
+    margin-bottom: 20px; /* Отступ снизу */
+}
+
+.form {
+    display: flex; /* Используем flexbox для вертикального выравнивания */
+    flex-direction: column; /* Вертикальная ориентация элементов */
+}
+
+.form label {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 5px; /* Отступ снизу */
+    text-align: left; /* Выравнивание текста по левому краю */
+}
+
+.form select, .form input[type="time"] {
+    padding: 10px; /* Отступы внутри полей */
+    margin-bottom: 20px; /* Отступ снизу */
+    border: 1px solid #ccc; /* Цвет рамки */
+    border-radius: 4px; /* Закругление углов */
+    font-size: 16px; /* Размер шрифта */
+    transition: border-color 0.3s; /* Плавный переход цвета рамки */
+}
+
+.form select:focus, .form input[type="time"]:focus {
+    border-color: #1eacc7; /* Цвет рамки при фокусе */
+}
+
+.submit-button {
+    padding: 10px 20px; /* Отступы внутри кнопки */
+    background-color: #1eacc7; /* Цвет фона кнопки */
+    color: #fff; /* Цвет текста кнопки */
+    border: none; /* Без рамки */
+    border-radius: 4px; /* Закругление углов */
+    font-size: 18px; /* Размер шрифта */
+    cursor: pointer; /* Указатель при наведении */
+    transition: background-color 0.3s; /* Плавный переход цвета фона */
+}
+
+.submit-button:hover {
+    background-color: #4ce2ff; /* Цвет фона при наведении */
+}
