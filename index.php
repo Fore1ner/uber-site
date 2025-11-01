@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="shortcut icon" href="icons/favicon.ico" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+   
+</head>
+<body>
+    <section class="menu">
+        <div class="container">
+            <div class="menu_buttons">
+                <div>Главная</div>
+                <div class="menu_line"></div>
+                <div>Со своим автомобилем</div>
+                <div class="menu_line"></div>
+                <div>На автомобиле компании</div>
+                <div class="menu_line"></div>
+                <div>Требования</div>
+                <div class="menu_line"></div>
+                <div>Контакты</div>
+                <div class="menu_line"></div>
+                <a href="lol.php"><div>Оставиить заявку</div></a>
+                
+            </div>
+            
+        </div>
+    </section>
+    <section class="promo">
+        <div class="blacking"></div>
+        <div class="container">
+            <div class="menu_contacts">
+                <div style="margin-left: 97px;margin-top: 19px;">
+                    <img src="icons/logo.png" alt="">
+                    <div class="menu_text1">Официальный партнер Uber в Москве</div>
+                </div>
+                <div class="menu_text2">
+                    <div class="mt2">Звоните нам ежедневно</div>
+                    <div class="mt22">8 495 797 09 88</div>
+                </div>
+                <div class="menu_button">заказать звонок</div>
+            </div>
+            <div class="promo_txt1">КОМПАНИЯ UBER PARTNERS! <br> <span>ПРИГЛАШАЕМ ВОДИТЕЛЕЙ! НА СВОЕМ АВТО!</span> </div>
+            <div class="promo_txt2">Компания UBER  динамически развивающаяся. Компания на рынке занимает лидирующее место среди<br>
+                таксомоторных компаний, Компания абсолютно прозрачная вы можете контролировать все процессы у себя в <br>
+                личном кабинете. Бонуcная система.Помимо выполненной работы по заказам, компания начисляет бонусы за<br>пиковое время.<br><br>
+                Мы одни из партнеров и зарекомендовали себя как одна из лучших команд в городе Москве.  Водители у нас<br>зарабатывают от 80000- 120000 в месяц.</div>
+            <div class="promo_button">ОТПРАВИТЬ ЗАЯВКУ!</div>
+        </div>
+    </section>
+    <section class="reasons">
+        <div class="container">
+            <div class="reasons_black">преимущества</div>
+            <h2>8 причин начать работать с нами</h2>
+            <div class="reasons_list">
+                <div class="list_column">
+                    <div class="el" >
+                        <div class="circle">
+                            <svg width="113" height="113" viewBox="0 0 113 113" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M56.4997 -0.00155199C87.7038 -0.00155199 113 25.2949 113 56.4988C113 87.7029 87.7038 112.999 56.4997 112.999C25.2957 112.999 -0.000159979 87.7029 -0.000159979 56.4988C-0.000159979 25.2949 25.2957 -0.00155199 56.4997 -0.00155199Z" fill="#1EACC7" />
+                            </svg>
+                            <img src="icons/reasons/reason_1.png" alt="Изображение">
+                        </div>
+                        <div class="el_text">
+                            <h3>Никаких наличных, оплата происходит<br>автоматически</h3>
+                            <div>Стоимость поездки оплачивается пассажиром с<br> привязанной банковской карты, т.е. нет никаких<br> рисков связанных с перевозкой наличности как для<br> пассажира, так и для водителя, Вам не нужно искать<br> мелкие деньги для размена.</div>
+                        </div>
+                        
+                    </div>
+                    <div class="el"style="margin-top:26px ;">
+                        <div class="circle">
+                            <svg width="113" height="113" viewBox="0 0 113 113" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M56.4997 -0.00155199C87.7038 -0.00155199 113 25.2949 113 56.4988C113 87.7029 87.7038 112.999 56.4997 112.999C25.2957 112.999 -0.000159979 87.7029 -0.000159979 56.4988C-0.000159979 25.2949 25.2957 -0.00155199 56.4997 -0.00155199Z" fill="#1EACC7" />
+                            </svg>
+                            <img src="icons/reasons/reason_3.png" alt="Изображение">
+                        </div>
+                        <div class="el_text">
+                            <h3>Высокий доход с гарантированными<br>выплатами</h3>
+                            <div>Мы выплачиваем заработную плату на личную <br>банковскую карту водителя! Вам не нужно <br>оформлять ООО, ИП, платить налоги, подавать <br>декларацию, оплачивать бухгалтерские услуги и<br> ведение банковского счета.</div>
+                        </div>
+                    </div>
+                    <div class="el" style="margin-top: 31px;">
+                        <div class="circle">
+                            <svg width="113" height="113" viewBox="0 0 113 113" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M56.4997 -0.00155199C87.7038 -0.00155199 113 25.2949 113 56.4988C113 87.7029 87.7038 112.999 56.4997 112.999C25.2957 112.999 -0.000159979 87.7029 -0.000159979 56.4988C-0.000159979 25.2949 25.2957 -0.00155199 56.4997 -0.00155199Z" fill="#1EACC7" />
+                            </svg>
+                            <img src="icons/reasons/reason_5.png" alt="Изображение">
+                        </div>
+                        <div class="el_text">
+                            <h3>Комфортное, прозрачное и простое<br>подключение</h3>
+                            <div>Мы подключаем дистанционно и бесплатно, Вам нет<br> необходимости приезжать к нам! Вы присылаете<br> нам копии документов, мы регистрируем Вас и<br> присылаем данные для подключения, через 1-2 дня<br> Вы можете начинать работать!</div>
+                        </div>
+                    </div>
+                    <div class="el" style="margin-top:27px ;">
+                        <div class="circle">
+                            <svg width="113" height="113" viewBox="0 0 113 113" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M56.4997 -0.00155199C87.7038 -0.00155199 113 25.2949 113 56.4988C113 87.7029 87.7038 112.999 56.4997 112.999C25.2957 112.999 -0.000159979 87.7029 -0.000159979 56.4988C-0.000159979 25.2949 25.2957 -0.00155199 56.4997 -0.00155199Z" fill="#1EACC7" />
+                            </svg>
+                            <img src="icons/reasons/reason_7.png" alt="Изображение">
+                        </div>
+                        <div class="el_text">
+                            <h3>Круглосуточная поддержка</h3>
+                            <div>В Uber действует круглосуточная поддержка <br>водителей по электронной почте. Если что-то<br> непонятно, Вы всегда можете задать вопрос через<br> On-line консультацию.</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="list_column">
+                    <div class="el">
+                        <div class="circle">
+                            <svg width="113" height="113" viewBox="0 0 113 113" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M56.4997 -0.00155199C87.7038 -0.00155199 113 25.2949 113 56.4988C113 87.7029 87.7038 112.999 56.4997 112.999C25.2957 112.999 -0.000159979 87.7029 -0.000159979 56.4988C-0.000159979 25.2949 25.2957 -0.00155199 56.4997 -0.00155199Z" fill="#1EACC7" />
+                            </svg>
+                            <img src="icons/reasons/reason_2.png" alt="Изображение">
+                        </div>
+                        <div class="el_text">
+                            <h3>Комиссия 8% + БОНУСЫ</h3>
+                            <div>У нас минимальная комиссия и мы<br> выплачиваем бонусы за каждую поездку, <br>некоторые наши конкуренты оставляют бонусы<br> себе. Мы работаем честно и с нами водители<br> зарабатывают больше!</div>
+                        </div>
+                        
+                    </div>
+                    <div class="el" style="margin-top: 48px;">
+                        <div class="circle">
+                            <svg width="113" height="113" viewBox="0 0 113 113" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M56.4997 -0.00155199C87.7038 -0.00155199 113 25.2949 113 56.4988C113 87.7029 87.7038 112.999 56.4997 112.999C25.2957 112.999 -0.000159979 87.7029 -0.000159979 56.4988C-0.000159979 25.2949 25.2957 -0.00155199 56.4997 -0.00155199Z" fill="#1EACC7" />
+                            </svg>
+                            <img src="icons/reasons/reason_4.png" alt="Изображение">
+                        </div>
+                        <div class="el_text">
+                            <h3>Работа в удобное время, никаких<br>графиков</h3>
+                            <div>Вы просто нажимаете кнопку выйти на линию<br> для начала работы, когда решите закончить, <br>нажимаете выйти с линии. Вы можете подраба-<br>
+                                тывать только утром, вечером, в выходные или<br> праздничные дни! </div>
+                        </div>
+                    </div>
+                    <div class="el"style="margin-top: 30px;">
+                        <div class="circle">
+                            <svg width="113" height="113" viewBox="0 0 113 113" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M56.4997 -0.00155199C87.7038 -0.00155199 113 25.2949 113 56.4988C113 87.7029 87.7038 112.999 56.4997 112.999C25.2957 112.999 -0.000159979 87.7029 -0.000159979 56.4988C-0.000159979 25.2949 25.2957 -0.00155199 56.4997 -0.00155199Z" fill="#1EACC7" />
+                            </svg>
+                            <img src="icons/reasons/reason_6.png" alt="Изображение">
+                        </div>
+                        <div class="el_text">
+                            <h3>Всегда большое количество заказов</h3>
+                            <div>Приложение показывает, где на данный момент<br> больше всего заказов и где действуют<br> повышенные тарифы. У Вас не будет простоя и <br>холостых пробегов. Наши пассажиры всегда <br>приятные и абсолютно неконфликтные люди, <br>которых приятно возить.</div>
+                        </div>
+                    </div>
+                    <div class="el"style="margin-top:28px ;">
+                        <div class="circle">
+                            <svg width="113" height="113" viewBox="0 0 113 113" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M56.4997 -0.00155199C87.7038 -0.00155199 113 25.2949 113 56.4988C113 87.7029 87.7038 112.999 56.4997 112.999C25.2957 112.999 -0.000159979 87.7029 -0.000159979 56.4988C-0.000159979 25.2949 25.2957 -0.00155199 56.4997 -0.00155199Z" fill="#1EACC7" />
+                            </svg>
+                            <img src="icons/reasons/reason_8.png" alt="Изображение">
+                        </div>
+                        <div class="el_text">
+                            <h3>Без шашечек и наклеек</h3>
+                            <div>Вам не нужно менять цвет, устанавливать<br> «шашки» на автомобиль и обклеивать его<br> наклейками.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="cons">
+        <div class="container">
+            <div class="cons_black">возможности</div>
+            <h2>мобильное приложение убер</h2>
+            <h3>Сделайте заказ, совершите поездку и оплатите ее стоимость, используя свой мобильный телефон</h3>
+            <div class="list_cons">
+                <div class="cons_row" style="margin-top: 30px;">
+                    <div class="cons_el" style="background: url(img/bg/mobile_screen_1.jpg);">
+                        <div>оформление заказа одним касанием</div>
+                        <div class="cons_el_plus"><img src="icons/plus.png" alt=""></div>
+                    </div>
+                    <div class="cons_el" style="background: url(img/bg/mobile_screen_2.jpg);">
+                        <div>надежная подача</div>
+                        <div class="cons_el_plus"><img src="icons/plus.png" alt=""></div>
+                    </div>
+                    <div class="cons_el" style="background: url(img/bg/mobile_screen_3.jpg);">
+                        <div>прозрачные цены</div>
+                        <div class="cons_el_plus"><img src="icons/plus.png" alt=""></div>
+                    </div>
+                </div>
+                <div class="cons_row" style="margin-top: 19px;">
+                    <div class="cons_el" style="background: url(img/bg/mobile_screen_4.jpg);">
+                        <div>безналичная оплата</div>
+                        <div class="cons_el_plus"><img src="icons/plus.png" alt=""></div>
+                    </div>
+                    <div class="cons_el" style="background: url(img/bg/mobile_screen_5.jpg);">
+                        <div>обратная связь</div>
+                        <div class="cons_el_plus"><img src="icons/plus.png" alt=""></div>
+                    </div>
+                    <div class="cons_el" style="background: url(img/bg/mobile_screen_6.jpg);">
+                        <div>разделить<br>стоимость поездки</div>
+                        <div class="cons_el_plus"><img src="icons/plus.png" alt=""></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="choice">
+        <div class="container">
+            <div class="choice_white">возможности</div>
+            <h2>Выбор - отличная штука!</h2>
+            <h3>Закажите автомобиль, который подходит вам по стилю и бюджету</h3>
+            <img src="img/car.png" alt="" class="car">
+            <div class="choice_text">Машины на каждый день.<br>Лучше, быстрее и дешевле, чем такси</div>
+        </div>
+    </section>
+    <section class="conditions">
+        <div class="container">
+            <div class="conditions_black">возможности</div>
+            <h3>условия и требования</h3>
+            <div class="conditions_table">
+                <div class="conditions_table_row1">
+                    <div>
+                        <h4>УСЛОВИЯ: со своим авто:</h4>
+                        <div class="conditions_element"><img src="icons/check_blue.png" alt="">Подключаем к системе UBER  под 10%.</div>
+                        <div class="conditions_element"><img src="icons/check_blue.png" alt="">Ни каких взносов  0%!</div>
+                        <div class="conditions_element"><img src="icons/check_blue.png" alt="">Можем подключать удаленно без приезда в офис</div>
+                        <div class="conditions_element"><img src="icons/check_blue.png" alt="">ИП не требуется</div>
+                        <div class="conditions_element"><img src="icons/check_blue.png" alt="">Заказы распределяются без учета рейтинга ближай-<br>
+                            шим водителям</div>
+                        <div class="conditions_element"><img src="icons/check_blue.png" alt="">Работа только по безналичному расчету</div>
+                        <div class="conditions_element"><img src="icons/check_blue.png" alt="">Деньги перечисляем на карту водителю или наличны-
+                            ми в офисе</div>
+                        <div class="conditions_table_text">В день заработок составляет 7000-12000р + бонус 3000т<br> рублей</div>
+                    </div>
+                    <div>
+                        <h4>УСЛОВИЯ: на авто компании:</h4>
+                        <div class="conditions_element"><img src="icons/check_blue.png" alt="">Предоставляем авто без залога</div>
+                        <div class="conditions_element"><img src="icons/check_blue.png" alt="">Без ежедневных выплат по аренде</div>
+                        <div class="conditions_element"><img src="icons/check_blue.png" alt="">Среда пятница и суббота работа на компанию осталь-<br>
+                            ные дни вы работаете на себя</div>
+                    </div>
+                </div>
+                <div class="conditions_table_row2">
+                    <div>
+                        <h4>ТРЕБОВАНИЕ:</h4>
+                        <div class="conditions_element"><img src="icons/check_red.png" alt="">Наличие автомобиля без рекламы</div>
+                        <div class="conditions_element"><img src="icons/check_red.png" alt="">Автомобиль не должен быть желтый и не с желтыми 
+                            номерами</div>
+                        <div class="conditions_element"><img src="icons/check_red.png" alt="">Машина не старше 3 лет</div>
+                        <div class="conditions_element"><img src="icons/check_red.png" alt="">Стаж вождения не менее 3 лет</div>
+                        <div class="conditions_element"><img src="icons/check_red.png" alt="">Девайс на системе андроид 4.0 и выше(самсунг)</div>
+                        
+                    </div>
+                    <div>
+                        <h4>ДОКУМЕНТЫ:</h4>
+                        <div class="conditions_element"><img src="icons/check_red.png" alt="">Права 2 стороны</div>
+                        <div class="conditions_element"><img src="icons/check_red.png" alt="">Паспорт лицевая сторона</div>
+                        <div class="conditions_element"><img src="icons/check_red.png" alt="">СтС</div>
+                        <div class="conditions_element"><img src="icons/check_red.png" alt="">Лицензия (если есть)</div>
+                        <div class="conditions_element"><img src="icons/check_red.png" alt="">Номер телефона</div>
+                        <div class="conditions_element"><img src="icons/check_red.png" alt="">Номер карты для перечисления денег(указать в письме)!</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="map">
+        <div class="container">
+            <div class="map_white">города</div>
+            <div class="map_text1">По всему миру</div>
+            <div class="map_text2">Мы в вашем городе и по всему миру</div>
+            <div class="map_text3">посмотреть все города</div>
+        </div>
+    </section>
+    <section class="footer">
+        <div class="container">
+            <div class="footer_line"><svg width="299" height="4" viewBox="0 0 299 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M-7.80225e-05 -7.90358e-05H299V3.99972H-7.80225e-05V-7.90358e-05Z" fill="#1FBAD6" />
+            </svg></div>
+        </div>
+            <div class="footer_row">
+                <div class="footer_row_imgs1">
+                    <div style="margin-left: 23px;"><img src="icons/facebook_logo.png" alt="" width="35px" height="35px"></div>
+                    <div><img src="icons/twitter_icon.png" alt="" width="35px" height="35px"></div>
+                    <div><img src="icons/linkedin_logo.png" alt="" width="35px" height="35px"></div>
+                    <div><img src="icons/instagram_icon.png" alt="" width="35px" height="35px"></div>
+                </div>
+                <div class="footer_row_text">
+                    <div class="footer_row_text_row1">
+                        <div>на главную</div>
+                        <div>города</div>
+                        <div>для водителей</div>
+                    </div>
+                    <div class="footer_row_text_row2">
+                        <div>центр поддержки</div>
+                        <div>вакансии</div>
+                        <div>разработчики</div>
+                        <div>блог</div>
+                        <div>о нас</div>
+                    </div>
+                    <div class="footer_row_text_row3">русский</div>
+                </div>
+                <div class="footer_row_imgs2">
+                    <div ><img src="img/app_store.png" alt=""></div>
+                    <div><img src="img/google_play.png" alt=""></div>
+                    <div style="margin-right: 21px;"><img src="img/windows_store.png" alt=""></div>
+                </div>
+            </div>
+        
+    </section>
+</body>
+
+</html>
+
+
+
+
